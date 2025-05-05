@@ -16,4 +16,4 @@ Imagine que uma clínica veterinária tem seu sistema próprio para aprovação 
 
 A solução deste caso pode ser feita com o princípio aberto-fechado (Open Closed Principle).
 
-[ ] Utilizando do conceito do OCP, criar uma interface e classes que implementam a mesma para que, caso a clínica necessite de um novo tipo de exame, uma nova classe seja adicionada, implementando métodos de uma interface padrão para exames.
+[✓] Utilizando do conceito do OCP, criar uma interface e classes que implementam a mesma para que, caso a clínica necessite de um novo tipo de exame, uma nova classe seja adicionada, implementando métodos de uma interface padrão para exames.
