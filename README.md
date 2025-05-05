@@ -8,7 +8,7 @@ O desafio consiste em aplicar os conceitos de Single Responsability Principle e 
 
 Note que na classe ``TaskHandler``, presente no arquivo ``/1_S_SRP/srp_bad_example.py``, temos várias ações e responsabilidades. O que torna a manutenção, usabilidade e até a performance ruins.
 
-[ ] Seguindo o conceito do Princípio da Responsabilidade única, essa classe deve ser reorganizada e, se necessário, deve ser criado outras classes com suas devidas responsabilidades.
+[ ] Seguindo o conceito do Princípio da Responsabilidade Única, essa classe deve ser reorganizada e, se necessário, deve ser criado outras classes com suas devidas responsabilidades.
 
 ## Open Closed Principle
 
